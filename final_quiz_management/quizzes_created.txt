@@ -1,0 +1,8 @@
+MCQ_DEMO_QUIZ,MCQ
+
+TRUE_FALSE_DEMO_QUIZ,True/False
+
+Short_Answer_DEMO,Short Answer
+
+
+

@@ -1,0 +1,9 @@
+Title,TRUE_FALSE_DEMO_QUIZ
+Description,demo for True or False
+Type,True/False
+Questions
+1+1=2,True/False,0
+2+1=5,True/False,1
+Mumbai is the capital of India,True/False,1
+India got independence in 1947,True/False,0
+India won 2011 World Cup,True/False,0
